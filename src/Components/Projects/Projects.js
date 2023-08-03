@@ -146,7 +146,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://simple-analogclock-ui.netlify.app/"
+                    href="https://clock-ui-json-particle.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -155,7 +155,7 @@ export const Projects = () => {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/vishnugowtham97/Clock-UI.git"
+                    href="https://github.com/vishnugowtham97/clock-ui-json-particle.git"
                     target="_blank"
                     rel="noreferrer"
                   >
