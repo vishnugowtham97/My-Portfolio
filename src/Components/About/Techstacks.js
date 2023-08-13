@@ -4,7 +4,7 @@ import { FaReact, FaNodeJs, FaAws } from "react-icons/fa";
 import {
   SiRedux,
   SiHtml5,
-  SiMaterialui,
+  SiMui,
   SiExpress,
   SiRedis,
   SiTailwindcss,
@@ -13,6 +13,7 @@ import {
   SiNetlify,
   SiMysql,
   SiPostman,
+  SiRender,
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
 import { VscGithub } from "react-icons/vsc";
@@ -35,6 +36,10 @@ export const Techstacks = () => {
           <div>
             <DiCss3 />
             <h5>CSS</h5>
+          </div>
+          <div>
+            <SiTailwindcss />
+            <h5>Tailwindcss</h5>
           </div>
           <div>
             <FaReact />
@@ -65,6 +70,10 @@ export const Techstacks = () => {
             <h5>Bootstrap</h5>
           </div>
           <div>
+            <SiMui />
+            <h5>Materialui</h5>
+          </div>
+          <div>
             <FaAws />
             <h5>AWS</h5>
           </div>
@@ -75,6 +84,10 @@ export const Techstacks = () => {
           <div>
             <SiHeroku />
             <h5>Heroku</h5>
+          </div>
+          <div>
+            <SiRender />
+            <h5>Render</h5>
           </div>
           <div>
             <VscGithub />
