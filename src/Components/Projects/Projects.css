@@ -10,7 +10,6 @@
 
 .project {
   width: 100%;
-  /* height: 70vh; */
   margin: 6% 0% 6% 0%;
   box-shadow: var(--shadow);
   display: flex;
@@ -44,7 +43,6 @@
   border: 3px solid var(--clr-primary);
   border-radius: 20px;
 }
-
 .project_information {
   flex-basis: 35%;
   border-radius: 30px;
