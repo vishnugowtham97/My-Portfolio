@@ -5,7 +5,7 @@
   width: 450px;
   border-radius: 20px;
   background-color: transparent;
-  margin: 10px;
+  /* margin: 10px; */
   margin: auto;
   margin-bottom: 10px;
 }
@@ -32,8 +32,6 @@
 .mailNumber > div {
   display: flex;
   flex-direction: row;
-  /* justify-content: center;
-    align-content: center; */
 }
 
 .mailNumber p {
@@ -69,13 +67,7 @@
   display: flex;
   justify-content: space-between;
 }
-/* .mailNumber:hover {
-    font-size: 1.1rem;
-    transform: scale(1.04);
-    overflow: hidden;
-    box-shadow: rgba(0, 0, 0, 0.36) 0px 10px 15px 0px,
-      rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
-  } */
+
 .contactMain {
   width: 90%;
   display: grid;

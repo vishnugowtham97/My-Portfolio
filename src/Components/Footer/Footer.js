@@ -10,11 +10,7 @@ export const Footer = () => {
       <div className={"section " + themename}>
         <a href="/" rel="noreferrer" target="_self">
           <div className="footerBox">
-            <h3 className="footer">
-              Made with{" "}
-              <span style={{ color: `red`, background: `transparent` }}>❤</span>{" "}
-              By Vishnu
-            </h3>
+            <h3 className="footer">Ready to contribute. Hire me!</h3>
           </div>
         </a>
       </div>

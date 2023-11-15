@@ -2,7 +2,7 @@ import React from "react";
 import "./Introduction.css";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import { ThemeContext } from "../../Context/theme";
-import profilePic from "../../assets/img.jpg";
+import profilePic from "../../assets/1.jpeg";
 
 export const Introduction = () => {
   const [{ themename }] = React.useContext(ThemeContext);

@@ -71,8 +71,9 @@ export const Timeline = () => {
               MERN stack.
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
-            date={"Nov 2022 - Present"}
+            date={"Jan - 2023"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",
@@ -110,8 +111,47 @@ export const Timeline = () => {
               MongoDB.
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
-            date={"April 2022 - June 2022"}
+            date={"Sep-2022"}
+            contentStyle={{
+              boxShadow: `var(--shadow)`,
+              border: "3px solid var(--clr-primary)",
+              backgroundColor: `var(--clr-bg)`,
+              textAlign: "center",
+              color: `var(--clr-fg-alt)`,
+            }}
+            contentArrowStyle={{
+              borderRight: "16px solid  var(--clr-primary)",
+            }}
+            iconStyle={{
+              border: ` 3px solid var(--clr-primary)`,
+              backgroundColor: `var(--clr-bg)`,
+              color: `var(--clr-primary)`,
+            }}
+            icon={<WorkIcon />}
+          >
+            <h3
+              className="vertical-timeline-element-title"
+              data-aos="fade-right"
+            >
+              Testing and Service
+            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              data-aos="fade-right"
+            >
+              Lakshmi Electrical Motors
+            </h4>
+            <p data-aos="fade-right">
+              Testing and Service Engineer at Lakshmi Motor Industry, excelling
+              in product quality assurance, maintenance optimization, and
+              delivering superior customer support.
+            </p>
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            date={"April 2022"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",
@@ -147,9 +187,10 @@ export const Timeline = () => {
               both manual and automated testing.
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"June 2019 - March 2022"}
+            date={"2019 - 2022"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",
@@ -185,9 +226,10 @@ export const Timeline = () => {
               skills and knowledge.
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"June 2015 - March 2019"}
+            date={"2015 - 2019"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",
@@ -223,9 +265,10 @@ export const Timeline = () => {
               Electronic streams. Passed with 6.30 CGPA
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"March - 2015"}
+            date={"2015"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",
@@ -260,9 +303,10 @@ export const Timeline = () => {
               Percentage
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"March 2013"}
+            date={"2013"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               border: "3px solid var(--clr-primary)",

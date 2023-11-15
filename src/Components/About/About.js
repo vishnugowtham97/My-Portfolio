@@ -79,7 +79,7 @@ export const About = () => {
         <button
           className="btnResume"
           onClick={() => {
-            window.open("https://vishnugowtham-resume.netlify.app/");
+            window.open("https://drive.google.com/file/d/1b42pZObFotfz7MpUhOuF141nWF3D8drp/view?usp=sharing");
           }}
         >
           Resume

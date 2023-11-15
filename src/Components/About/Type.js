@@ -8,8 +8,8 @@ export const Type = () => {
       <Typewriter
         options={{
           strings: [
-            "Full Stack Developer",
-            "Junior Web Developer",
+            "Web Developer",
+            "Frontend Developer",
             "Programmer",
             "Traveller",
           ],

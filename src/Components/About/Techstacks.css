@@ -3,6 +3,7 @@
 }
 .techsection {
   width: 100%;
+  margin-left: 10px;
   text-align: center;
   background-color: var(--clr-bg);
   height: 50vh;
