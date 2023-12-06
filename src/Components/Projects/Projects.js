@@ -101,13 +101,14 @@ export const Projects = () => {
                 </p>
                 <div>
                   <FaReact />
+                  <IoLogoJavascript />
                   <SiBootstrap />
                   <DiGithub />
                   <SiNetlify />
                 </div>
                 <div>
                   <a
-                    href="https://stack-overflow-clone-vishnu.netlify.app/"
+                    href="https://vishnu-shopee-ecommerce.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -116,7 +117,7 @@ export const Projects = () => {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/vishnugowtham97/stack-overflow-clone-app.git"
+                    href="https://github.com/vishnugowtham97/react-E-commerce.git"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -544,7 +545,7 @@ export const Projects = () => {
                 </div>
               </div>
               <div className="project_information">
-                <h2>Car Showroomiinfo</h2>
+                <h2>Car Showroom website</h2>
                 <p>
                   A dynamic React.js frontend showcasing car inventory and
                   dealership details for an engaging user experience. Showroom
@@ -594,7 +595,7 @@ export const Projects = () => {
                 </div>
               </div>
               <div className="project_information">
-                <h2>Car Showroomiinfo</h2>
+                <h2>Clock UI</h2>
                 <p>
                   Crafted an elegant and interactive analog clock user interface
                   using HTML, CSS and JavaScript.The analog clock accurately
