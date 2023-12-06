@@ -10,6 +10,7 @@ export const Type = () => {
           strings: [
             "Web Developer",
             "Frontend Developer",
+            "React Developer",
             "Programmer",
             "Traveller",
           ],
