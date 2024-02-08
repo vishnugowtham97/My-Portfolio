@@ -97,7 +97,8 @@ export const Projects = () => {
                   Bootstrap, integrates a secure payment gateway for seamless
                   and safe online transactions.Shopping cart functionality with
                   the ability to add, view, and manage items & User registration
-                  and authentication system.
+                  and authentication system and with Event Ticket booking
+                  features.
                 </p>
                 <div>
                   <FaReact />
@@ -108,7 +109,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://vishnu-shopee-ecommerce.netlify.app/"
+                    href="https://shopee-vishnu-ecommerce-app.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -117,7 +118,7 @@ export const Projects = () => {
                     </span>
                   </a>
                   <a
-                    href="https://github.com/vishnugowtham97/react-E-commerce.git"
+                    href="https://github.com/vishnugowtham97/Shopee-E-commerce-.git"
                     target="_blank"
                     rel="noreferrer"
                   >
